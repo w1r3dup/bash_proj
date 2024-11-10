@@ -1,4 +1,4 @@
-# ftext - Funky Test Output in Bash
+# ftext - Funky Text Output in Bash
 
 Funky Text 'ftext.sh' is a simple Bash script that lets you enter a custom text, give it a colour and see the output text light up with the colour you chose
 
